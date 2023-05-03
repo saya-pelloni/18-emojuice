@@ -80,7 +80,7 @@ h2 {
   display: flex;
   color: white;
   justify-content: center;
-  padding-top: 35px;
+  padding-top: 5px;
   font-family: 'Maven Pro', sans-serif;
 }
 
@@ -189,4 +189,5 @@ h3 {
   font-family: 'Quattrocento Sans', sans-serif;
   text-align: center;
   padding-bottom: 20px;
+  padding-top: 45px;
 }
