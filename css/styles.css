@@ -56,11 +56,12 @@ header {
 .white-section {
   background: #ffffff;
   padding: 35px; 
-  padding-bottom: 65px;
+  padding-bottom: 75px;
 }
 
 .green-section {
   background: #7DB96F;
+  padding-top: 5px;
 }
 
 h2 {
@@ -125,3 +126,16 @@ h3 {
   width: 25%;
   padding-left: 195px;
 }
+
+.fraise {
+  background: #E2A2B1;
+  margin: 30px;
+  border-radius: 20px;
+  padding-bottom: 25px;
+}
+
+.fraise-img {
+  width: 25%;
+  padding-left: 195px;
+}
+
