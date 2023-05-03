@@ -87,11 +87,6 @@ h3 {
   color: black;
 }
 
-.banane-section {
-  padding-left: 35px;
-  padding-bottom: 20px;
-}
-
 .banane-img {
   width: 25%;
   padding-left:195px;
@@ -111,10 +106,22 @@ h3 {
 
 .kiwi-img {
   width: 25%;
-  padding-left:195px;
+  padding-left: 195px;
 }
 
-.kiwi-section {
+.intro {
   padding-left: 35px;
-  padding-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.cafe {
+  background: #CDC4B0;
+  margin: 30px;
+  border-radius: 20px;
+  padding-bottom: 25px;
+}
+
+.cafe-img {
+  width: 25%;
+  padding-left: 195px;
 }
