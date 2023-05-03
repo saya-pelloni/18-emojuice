@@ -13,6 +13,7 @@ header {
   background-image: url(../img/fond-legumes.png);
   padding: 50px;
   background-size: cover;
+  padding-bottom: 30px;
 }
 
 .box-title {
@@ -31,6 +32,7 @@ header {
 .second-title {
   font-family: 'Maven Pro', sans-serif;
   text-align: center;
+  padding-right: 35px;
 }
 
 .intro-text {
@@ -171,6 +173,7 @@ h2 {
 
 .end-title {
   color:#7DB96F;
+  padding-left: 75px;
 }
 
 .facebook {
