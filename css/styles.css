@@ -26,3 +26,30 @@ header {
 .slogan {
   color: #7DB96F;
 }
+
+.bouton-green {
+  display: flex;
+  background-color: #7DB96F;
+  color: #ffffff;
+  justify-content: center;
+  border-radius: 12px;
+  margin: 30px;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  padding: 10px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.bouton-white {
+  display: flex;
+  background-color: white;
+  color: #7DB96F;
+  justify-content: center;
+  border-radius: 12px;
+  margin: 65px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  padding: 10px;
+  font-family: 'Space Grotesk', sans-serif;
+
+}
