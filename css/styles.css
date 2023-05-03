@@ -80,10 +80,11 @@ header {
   padding-bottom: 20px;
 }
 
-h2 {
+.title-menu {
   display: flex;
   color: white;
   justify-content: center;
+  padding-right: 30px;
   padding-top: 5px;
   font-family: 'Maven Pro', sans-serif;
 }
@@ -95,7 +96,7 @@ h2 {
   padding-bottom: 25px;
 }
 
-h3 {
+h2 {
   padding-left: 35px;
   padding-top: 30px;
   margin-bottom: 2px;
