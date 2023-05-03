@@ -8,3 +8,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background-image: url(../img/fond-legumes.png);
+  padding: 50px;
+}
+
+.box-title {
+  background: white;
+  opacity: 90%;
+  padding-right: 45px;
+  padding-left: 45px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.slogan {
+  color: #7DB96F;
+}
