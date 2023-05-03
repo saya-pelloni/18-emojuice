@@ -101,3 +101,20 @@ h3 {
   padding-left: 35px;
   color: black;
 }
+ 
+.kiwi {
+  background: #D0F1AE;
+  margin: 30px;
+  border-radius: 20px;
+  padding-bottom: 25px;
+}
+
+.kiwi-img {
+  width: 25%;
+  padding-left:195px;
+}
+
+.kiwi-section {
+  padding-left: 35px;
+  padding-bottom: 20px;
+}
