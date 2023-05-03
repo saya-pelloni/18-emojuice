@@ -56,4 +56,48 @@ header {
 .white-section {
   background: #ffffff;
   padding: 35px; 
+  padding-bottom: 65px;
+}
+
+.green-section {
+  background: #7DB96F;
+}
+
+h2 {
+  display: flex;
+  color: white;
+  justify-content: center;
+  padding-top: 35px;
+}
+
+.produits {
+  background: #FCF7D6;
+  margin: 30px;
+  border-radius: 20px;
+  padding-bottom: 25px;
+}
+
+h3 {
+  padding-left: 35px;
+  padding-top: 30px;
+  margin-bottom: 2px;
+}
+
+.second-title {
+  color: black;
+}
+
+.banane-section {
+  padding-left: 35px;
+  padding-bottom: 20px;
+}
+
+.banane-img {
+  width: 25%;
+  padding-left:195px;
+}
+
+.know-more {
+  padding-left: 35px;
+  color: black;
 }
