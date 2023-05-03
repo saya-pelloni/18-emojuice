@@ -36,8 +36,9 @@ header {
 
 .slogan {
   color: #7DB96F;
+  text-align: center;
 }
-
+ 
 .bouton-green {
   display: flex;
   background-color: #7DB96F;
