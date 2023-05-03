@@ -98,6 +98,7 @@ header {
   margin: 30px;
   border-radius: 20px;
   padding-bottom: 25px;
+  box-shadow: 2px 2px 9px 1px rgba(0, 0, 0, 0.2);
 }
 
 h2 {
@@ -127,6 +128,7 @@ h2 {
   margin: 30px;
   border-radius: 20px;
   padding-bottom: 25px;
+  box-shadow: 2px 2px 9px 1px rgba(0, 0, 0, 0.2);
 }
 
 .kiwi-img {
@@ -145,6 +147,7 @@ h2 {
   margin: 30px;
   border-radius: 20px;
   padding-bottom: 25px;
+  box-shadow: 2px 2px 9px 1px rgba(0, 0, 0, 0.2);
 }
 
 .cafe-img {
@@ -157,6 +160,7 @@ h2 {
   margin: 30px;
   border-radius: 20px;
   padding-bottom: 25px;
+  box-shadow: 2px 2px 9px 1px rgba(0, 0, 0, 0.2);
 }
 
 .fraise-img {
@@ -202,8 +206,4 @@ h2 {
   text-align: center;
   padding-bottom: 20px;
   padding-top: 45px;
-}
-
-.last-fruit {
-  padding: 30px;
 }
