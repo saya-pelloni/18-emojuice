@@ -25,13 +25,18 @@ header {
 
 .second-title {
   font-family: 'Maven Pro', sans-serif;
+  text-align: center;
+}
+
+.intro-text {
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .slogan {
   color: #7DB96F;
+
 }
-
-
 
 .bouton-green {
   display: flex;
@@ -182,4 +187,6 @@ h3 {
 .last {
   color: #7DB96F;
   font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;
+  padding-bottom: 20px;
 }
