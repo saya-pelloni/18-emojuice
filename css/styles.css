@@ -62,6 +62,7 @@ header {
 .green-section {
   background: #7DB96F;
   padding-top: 5px;
+  padding-bottom: 20px;
 }
 
 h2 {
@@ -139,3 +140,32 @@ h3 {
   padding-left: 195px;
 }
 
+.end-title {
+  color:#7DB96F;
+}
+
+.facebook {
+  display: flex;
+  background-color: #7DB96F;
+  color:white;
+  justify-content: center;
+  border-radius: 12px;
+  margin: 110px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  padding: 10px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.instagram {
+  display: flex;
+  background-color: #7DB96F;
+  color:white;
+  justify-content: center;
+  border-radius: 12px;
+  margin: 95px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  padding: 10px;
+  font-family: 'Space Grotesk', sans-serif;
+}
